@@ -10,7 +10,7 @@
       "name": "Wrapped MTV",
       "symbol": "WMTV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mtvguru/vax-list/main/docs/images/0x8E321596267a4727746b2F48BC8736DB5Da26977.png"
+      "logoURI": "https://mtv.guru/vax-list/images/0x8E321596267a4727746b2F48BC8736DB5Da26977.png"
     },
     {
       "address": "0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2",
@@ -18,7 +18,7 @@
       "name": "Circle USD (RelayChain)",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mtvguru/vax-list/main/docs/images/0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2.png"
+      "logoURI": "https://mtv.guru/vax-list/images/0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2.png"
     },
     {
       "address": "0x86FF8138dcA8904089D3d003d16a5a2d710D36D2",
@@ -26,7 +26,7 @@
       "name": "Asimov Token",
       "symbol": "ISAAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mtvguru/vax-list/main/docs/images/0x86FF8138dcA8904089D3d003d16a5a2d710D36D2.png"
+      "logoURI": "https://mtv.guru/vax-list/images/0x86FF8138dcA8904089D3d003d16a5a2d710D36D2.png"
     },
     {
       "address": "0x2Eb19Db032dC60039d35E36918d33197D9F7D7b9",
@@ -34,7 +34,7 @@
       "name": "Dirt Token",
       "symbol": "DIRT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mtvguru/vax-list/main/docs/images/0x2Eb19Db032dC60039d35E36918d33197D9F7D7b9.png"
+      "logoURI": "https://mtv.guru/vax-list/images/0x2Eb19Db032dC60039d35E36918d33197D9F7D7b9.png"
     },
     {
       "address": "0xFC0c8D38166fc417F19De5B44CfC339079a70913",
@@ -42,7 +42,7 @@
       "name": "Hertz Token",
       "symbol": "HTZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mtvguru/vax-list/main/docs/images/0xFC0c8D38166fc417F19De5B44CfC339079a70913.png"
+      "logoURI": "https://mtv.guru/vax-list/images/0xFC0c8D38166fc417F19De5B44CfC339079a70913.png"
     }
   ],
   "version": {
