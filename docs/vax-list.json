@@ -43,11 +43,91 @@
       "symbol": "HTZ",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0xFC0c8D38166fc417F19De5B44CfC339079a70913.png"
+    },
+    {
+      "address": "0xCd65eb7630e5A2C46E1b99c0F3a45611be4960B2",
+      "chainId": 62621,
+      "name": "BUSD Token / RelayChain Bridged",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0xCd65eb7630e5A2C46E1b99c0F3a45611be4960B2.png"
+    },
+    {
+      "address": "0x4E51774CB9704109f6Ff8F9a9DfFd8fAF823C38f",
+      "chainId": 62621,
+      "name": "Wrapped Harmony / RelayChain Bridged",
+      "symbol": "ONE",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x4E51774CB9704109f6Ff8F9a9DfFd8fAF823C38f.png"
+    },
+    {
+      "address": "0x91c57B70EcD17DB27d22EaD74Cc86781936115E7",
+      "chainId": 62621,
+      "name": "Wrapped Moonriver / RelayChain Bridged",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x91c57B70EcD17DB27d22EaD74Cc86781936115E7.png"
+    },
+    {
+      "address": "0x2f9c74d3C42023C533437c9EE743D4a6329e78Df",
+      "chainId": 62621,
+      "name": "Tether USD / RelayChain Bridged",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://mtv.guru/vax-list/images/0x2f9c74d3C42023C533437c9EE743D4a6329e78Df.png"
+    },
+    {
+      "address": "0x3b6e35574Fe60D7CeB9CA70DcA56D7294EF28926",
+      "chainId": 62621,
+      "name": "Wrapped Ether / RelayChain Bridged",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x3b6e35574Fe60D7CeB9CA70DcA56D7294EF28926.png"
+    },
+    {
+      "address": "0x67558D91654A6ccbe88a3cc4e1DB862BC51fc322",
+      "chainId": 62621,
+      "name": "Wrapped Fantom / RelayChain Bridged",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x67558D91654A6ccbe88a3cc4e1DB862BC51fc322.png"
+    },
+    {
+      "address": "0x25009A734EfFE43cf7609Bc313E987d7ee8ee346",
+      "chainId": 62621,
+      "name": "Wrapped Binance / RelayChain Bridged",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x25009A734EfFE43cf7609Bc313E987d7ee8ee346.png"
+    },
+    {
+      "address": "0x282A0c6a96747bfF4BAa80eBa6CE6744aafaBEbB",
+      "chainId": 62621,
+      "name": "Wrapped Crypto.com / RelayChain Bridged",
+      "symbol": "CRO",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x282A0c6a96747bfF4BAa80eBa6CE6744aafaBEbB.png"
+    },
+    {
+      "address": "0x185B1FF9878D27DdE302A511FC2f80765232ADB7",
+      "chainId": 62621,
+      "name": "Wrapped MATIC / RelayChain Bridged",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x185B1FF9878D27DdE302A511FC2f80765232ADB7.png"
+    },
+    {
+      "address": "0x175E9B026cf31fbE181628C9BDAb3DF6143b6F18",
+      "chainId": 62621,
+      "name": "Wrapped Avalanche / RelayChain Bridged",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x175E9B026cf31fbE181628C9BDAb3DF6143b6F18.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
