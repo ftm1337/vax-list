@@ -15,7 +15,7 @@
     {
       "address": "0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2",
       "chainId": 62621,
-      "name": "Circle USD - RelayChain Bridged",
+      "name": "Circle USD / RelayChain Bridged",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2.png"
