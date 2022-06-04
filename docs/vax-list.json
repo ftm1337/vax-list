@@ -123,11 +123,19 @@
       "symbol": "AVAX",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0x175E9B026cf31fbE181628C9BDAb3DF6143b6F18.png"
+    },
+    {
+      "address": "0xc26Eff006Cd0ce283e4a49B81366AC665C85e595",
+      "chainId": 62621,
+      "name": "Ghost Soul",
+      "symbol": "GSOUL",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0xc26Eff006Cd0ce283e4a49B81366AC665C85e595.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
