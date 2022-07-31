@@ -131,11 +131,19 @@
       "symbol": "GSOUL",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0xc26Eff006Cd0ce283e4a49B81366AC665C85e595.png"
+    },
+    {
+      "address": "0x9029d1dEDa00e166De55406eAB2608E4efC66D7b",
+      "chainId": 62621,
+      "name": "Proxima",
+      "symbol": "PROX",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0x9029d1dEDa00e166De55406eAB2608E4efC66D7b.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
