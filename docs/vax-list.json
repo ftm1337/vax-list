@@ -139,11 +139,20 @@
       "symbol": "PROX",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0x9029d1dEDa00e166De55406eAB2608E4efC66D7b.png"
+    },
+    {
+      "address": "0xde19E8bfc16E7cbBc1900F0bc9510e37EeC5a9C0",
+      "chainId": 62621,
+      "name": "MultiBuds Token",
+      "symbol": "BUD",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0xde19E8bfc16E7cbBc1900F0bc9510e37EeC5a9C0.svg"
     }
+
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
