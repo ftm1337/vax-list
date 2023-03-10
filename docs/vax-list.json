@@ -139,12 +139,20 @@
       "symbol": "BUD",
       "decimals": 18,
       "logoURI": "https://mtv.guru/vax-list/images/0xde19E8bfc16E7cbBc1900F0bc9510e37EeC5a9C0.svg"
-    }
+    },
+    {
+      "address": "0xfe4347d0432C5D8dCDC6A59141f4B8B9dFCE5482",
+      "chainId": 62621,
+      "name": "Space Apes",
+      "symbol": "SAPE",
+      "decimals": 18,
+      "logoURI": "https://mtv.guru/vax-list/images/0xfe4347d0432C5D8dCDC6A59141f4B8B9dFCE5482.png"
+    },
 
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
